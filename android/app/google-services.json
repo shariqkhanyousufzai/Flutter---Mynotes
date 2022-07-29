@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837205539177",
+    "project_id": "mynotes-tco99",
+    "storage_bucket": "mynotes-tco99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837205539177:android:56befe81e15a9e3c7865f8",
+        "android_client_info": {
+          "package_name": "com.softlogicx.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837205539177-upv36u6flbpdlvvbocsc4hl5co6dcbh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa6Cmn8Al8kXCrTGBRIToKPm_34pjr7kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837205539177-upv36u6flbpdlvvbocsc4hl5co6dcbh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
